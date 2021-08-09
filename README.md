@@ -69,5 +69,5 @@ Anything related to tech count me in 💫
 
 <p>
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.rapidapi.com%2Fwp-content%2Fuploads%2F2017%2F01%2Foctocat.gif&f=1&nofb=1" width="400px" />
-<img src ="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F7d%2F06%2F89%2F7d068990a6d0fa0b99d8ca96afde86dc.gif&f=1&nofb=1" width="300px"/>
+<!-- <img src ="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F7d%2F06%2F89%2F7d068990a6d0fa0b99d8ca96afde86dc.gif&f=1&nofb=1" width="300px"/> -->
 </p>
