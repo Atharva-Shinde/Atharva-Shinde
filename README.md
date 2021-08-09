@@ -1,6 +1,6 @@
-### Hi there 👋
+<!--### Hi there 👋
 
-<!--
+
 **Atharva-Shinde/Atharva-Shinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -50,11 +50,11 @@ Anything related to tech count me in 💫
 
 - [Google CloudReady Facilitator Program](https://events.withgoogle.com/googlecloudready-facilitator-program/#content)Completed the ultimate track and availed for Google Cloud Career Ready Program. <br/>Also see my [Qwiklabs Public Profile](https://www.qwiklabs.com/public_profiles/6bfb006e-758f-4dd6-ab55-ce66d7be0cdc)
 - [Google Cloud Career Readiness Program](https://cloud.google.com/edu/career-readiness)Selected as one of the first 1000 students to be awarded a seat in the Google Cloud Career Readiness program through CloudReady Program.
+  
+ ***Programming Languages:***  Java, JavaScript, Python, Golang, SQL. CSS, HTML.
+ ***Development Stack:*** Node JS, React, Redux, Firebase.
 
 - 🌱 I’m currently learning Kubernetes and docker. 
-- Programming Languages: Java, JavaScript, Python, Golang, CSS, HTML.
-- Database Language- SQL.
-- Development Stack- Node JS, React, Redux, Firebase.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love listening to pianos🎹 and violins🎻.
 <!-- - 👯 I’m looking to collaborate on ..
