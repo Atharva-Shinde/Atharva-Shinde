@@ -62,7 +62,7 @@ Anything related to tech count me in 💫
 - 💬 Ask me about: -->
 
 <div>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubha-v-ardhan&show_icons=true&locale=en&layout=compact" alt="anubha-v-ardhan" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharva-shinde&show_icons=true&locale=en&layout=compact" alt="atharva's stats" />
   
 <!-- [![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharva-shinde)](https://github.com/atharva-shinde/github-readme-stats) -->
   </div>
