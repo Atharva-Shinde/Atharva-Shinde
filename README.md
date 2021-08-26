@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 I am a freshman pursing Bachelors in Computer Engineering at NMIET,Pune.
 Anything related to tech count me in 💫
   
-***Programming Languages:***  Java, JavaScript, Python, Golang, SQL. CSS, HTML.<br>
+***Programming Languages:***  Java, JavaScript, Python, Golang, SQL, CSS, HTML.<br>
 ***Development Stack:*** Node JS, React, Redux, Firebase.<br>
 ***I’m currently learning*** : Kubernetes and docker. 
 
