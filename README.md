@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 # Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">! I'm Atharva 
 
-<a href="https://www.linkedin.com/in/atharva-s-6468b4205">
+<a href="https://www.linkedin.com/in/atharva-shinde-6468b4205">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
 </a>
 <a href="https://twitter.com/atharvashinde_">
