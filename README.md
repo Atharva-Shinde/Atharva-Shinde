@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <br />
 
 ## About Me
-I am a freshman pursing Bachelors in Computer Engineering at NMIET,Pune 💫
+I am a sophomore pursing Bachelors in Computer Engineering at NMIET,Pune 💫
   
 ***Programming Languages:***  Java, JavaScript, Python, Golang, SQL, CSS, HTML.<br>
 ***Development Stack:*** Node JS, React, Redux, Firebase.<br>
