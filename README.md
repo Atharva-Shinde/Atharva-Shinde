@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Helllo Visitor <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> This is {{ Atharva }}
 
-#### Wanna Talk? You can get in touch with me through these platforms
+<h5> Wanna Talk? You can get in touch with me through these platforms </h5>
 <br/>
   <a href="https://www.linkedin.com/in/atharva-shinde-6468b4205">
     <img align="left" width="40px" src="https://img.icons8.com/nolan/64/linkedin.png" />
@@ -28,6 +28,9 @@ Here are some ideas to get you started:
     <img align="left" width="40px" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/100/000000/external-email-multimedia-kiranshastry-lineal-color-kiranshastry-1.png" />
   </a>
 <br />
+<br />
+<br />
+
 
 ## About Me
 I am a sophomore pursing Bachelors in Computer Engineering at NMIET,Pune 💫
