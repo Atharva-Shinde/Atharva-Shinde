@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hellllo Visitor <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> This is {{ Atharva }}
+# Helllo Visitor <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> This is {{ Atharva }}
  
 <a href="https://www.linkedin.com/in/atharva-shinde-6468b4205">
   <img align="left" width="40px" src="https://img.icons8.com/nolan/64/linkedin.png" />
