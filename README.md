@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="mailto:atharvashinde179@gmail.com">
-  <img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/100/000000/external-email-multimedia-kiranshastry-lineal-color-kiranshastry-1.png"/>
+  <img align="left" width="26px" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/100/000000/external-email-multimedia-kiranshastry-lineal-color-kiranshastry-1.png" />
 </a>
 <br />
 
