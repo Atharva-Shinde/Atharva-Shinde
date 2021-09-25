@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Atharva 
 
 <a href="https://www.linkedin.com/in/atharva-shinde-6468b4205">
-  <img align="left" width="40px" src="https://img.icons8.com/bubbles/48/000000/linkedin.png"/>
+  <img align="left" width="40px" src="https://img.icons8.com/nolan/64/linkedin.png" />
 </a>
 <a href="https://twitter.com/atharvashinde_">
   <img align="left" width="40px" src="https://img.icons8.com/fluency/48/000000/twitter.png" />
