@@ -28,7 +28,6 @@ Here are some ideas to get you started:
   </a>
 <br />
 <br />
----
 
 ## About Me
 I am a sophomore pursing Bachelors in Computer Engineering at NMIET,Pune 💫
