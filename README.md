@@ -43,17 +43,10 @@ I am a sophomore pursing Bachelors in Computer Engineering at NMIET,Pune 💫
 - [Google Cloud Career Readiness Program](https://cloud.google.com/edu/career-readiness) Selected as one of the first 1000 students to be awarded a seat in the Google Cloud Career Readiness program through CloudReady Program.
 - Pronouns: he/him
 - ⚡ Fun fact: I love listening to pianos🎹 and violins🎻.
-<!-- - 👯 I’m looking to collaborate on ..
-- 🤔 I’m looking for help with ..
-- 💬 Ask me about: -->
 
-<div>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharva-shinde&show_icons=true&locale=en&layout=compact" alt="atharva's stats" />
-  
-<!-- [![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharva-shinde)](https://github.com/atharva-shinde/github-readme-stats) -->
-  </div>
 
-<p>
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.rapidapi.com%2Fwp-content%2Fuploads%2F2017%2F01%2Foctocat.gif&f=1&nofb=1" width="400px" />
+<img width="55%" align="right" alt="Octo" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.rapidapi.com%2Fwp-content%2Fuploads%2F2017%2F01%2Foctocat.gif&f=1&nofb=1" width="400px" />
+
+<!-- [![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharva-shinde)](https://github.com/atharva-shinde/github-readme-stats) -->
 <!-- <img src ="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F7d%2F06%2F89%2F7d068990a6d0fa0b99d8ca96afde86dc.gif&f=1&nofb=1" width="300px"/> -->
-</p>
