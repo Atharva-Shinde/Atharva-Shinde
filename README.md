@@ -45,7 +45,6 @@ I am a sophomore pursing Bachelors in Computer Engineering at NMIET,Pune 💫
 - ⚡ Fun fact: I love listening to pianos🎹 and violins🎻.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharva-shinde&show_icons=true&locale=en&layout=compact" alt="atharva's stats" /> 
----
 
 <img alt="Octo" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.rapidapi.com%2Fwp-content%2Fuploads%2F2017%2F01%2Foctocat.gif&f=1&nofb=1" width="400px" />
 
