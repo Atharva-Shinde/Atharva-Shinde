@@ -46,7 +46,7 @@ I am a sophomore pursing Bachelors in Computer Engineering at NMIET,Pune 💫
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharva-shinde&show_icons=true&locale=en&layout=compact" alt="atharva's stats" />
 
-<img width="55%" align="right" alt="Octo" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.rapidapi.com%2Fwp-content%2Fuploads%2F2017%2F01%2Foctocat.gif&f=1&nofb=1" width="400px" />
+<img alt="Octo" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.rapidapi.com%2Fwp-content%2Fuploads%2F2017%2F01%2Foctocat.gif&f=1&nofb=1" width="400px" />
 
 <!-- [![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharva-shinde)](https://github.com/atharva-shinde/github-readme-stats) -->
 <!-- <img src ="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F7d%2F06%2F89%2F7d068990a6d0fa0b99d8ca96afde86dc.gif&f=1&nofb=1" width="300px"/> -->
