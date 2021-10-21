@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hello Visitor <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Myself `{{ Atharva }}`
 
-<h4>Wanna Talk? You can get in touch with me through these platforms</h4>
+<h4>Let's Connect!!</h4>
   <a href="https://www.linkedin.com/in/atharva-shinde-6468b4205">
     <img align="left" width="40px" src="https://img.icons8.com/nolan/64/linkedin.png" />
   </a>
