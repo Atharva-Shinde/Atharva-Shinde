@@ -42,6 +42,6 @@ I am a sophomore pursing Bachelors in Computer Engineering at NMIET,Pune 💫
 - [Google CloudReady Facilitator Program](https://events.withgoogle.com/googlecloudready-facilitator-program/#content)Completed the ultimate track and availed for Google Cloud Career Ready Program. <br/>Also see my [Qwiklabs Public Profile](https://www.qwiklabs.com/public_profiles/6bfb006e-758f-4dd6-ab55-ce66d7be0cdc)
 - [Google Cloud Career Readiness Program](https://cloud.google.com/edu/career-readiness) Selected as one of the first 1000 students to be awarded a seat in the Google Cloud Career Readiness program through CloudReady Program.
 - Pronouns: he/him
-- ⚡ Fun fact: I just love the harmonies of pianos🎹 and violins🎻.
+- I just love listening to pianos🎹 and violins🎻.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharva-shinde&show_icons=true&locale=en&layout=compact" alt="atharva's stats" /> 
