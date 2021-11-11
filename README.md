@@ -44,7 +44,10 @@ I am a sophomore pursing Bachelors in Computer Engineering at NMIET,Pune 💫
 - Pronouns: he/him
 - I just love listening to pianos🎹 and violins🎻.
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharva-shinde&show_icons=true&locale=en&layout=compact" alt="atharva's stats" /> 
+<div>
+  
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharva-shinde&show_icons=true&locale=en&layout=compact" alt="atharva's stats" /> 
 
-[![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atharva-Shinde&hide=stars&show_icons=true&theme=calm)](https://github.com/Atharva-Shinde/github-readme-stats)
+  [![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atharva-Shinde&hide=stars&show_icons=true&theme=calm)](https://github.com/Atharva-Shinde/github-readme-stats)
 
+ </div>
