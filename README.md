@@ -29,8 +29,6 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-[![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atharva-Shinde&hide=stars)](https://github.com/Atharva-Shinde/github-readme-stats)
-
 ## About Me
 I am a sophomore pursing Bachelors in Computer Engineering at NMIET,Pune 💫
   
@@ -48,5 +46,5 @@ I am a sophomore pursing Bachelors in Computer Engineering at NMIET,Pune 💫
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharva-shinde&show_icons=true&locale=en&layout=compact" alt="atharva's stats" /> 
 
-![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atharva-Shinde&show_icons=true&theme=radical)
+[![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atharva-Shinde&hide=stars)](https://github.com/Atharva-Shinde/github-readme-stats)
 
