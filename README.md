@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 # Heyy You <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm `{{ Atharva }}`
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Atharva-Shinde&left_color=gray&right_color=blue)
+<!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Atharva-Shinde&left_color=gray&right_color=blue) -->
 ## Let's Connect!!</h4>
   <a href="https://www.linkedin.com/in/atharva-shinde-6468b4205">
     <img align="left" width="40px" src="https://img.icons8.com/nolan/64/linkedin.png" />
@@ -45,7 +45,5 @@ I am a sophomore pursing Bachelors in Computer Engineering at NMIET,Pune 💫
 - I just love listening to pianos🎹 and violins🎻.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharva-shinde&show_icons=true&locale=en&layout=compact" alt="atharva's stats" /> 
-
-<br/>
 
 [![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atharva-Shinde&hide=stars&show_icons=true&theme=calm)](https://github.com/Atharva-Shinde/github-readme-stats)
