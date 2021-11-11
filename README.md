@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 <br />
 <br />
 
+[![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atharva-Shinde&hide=stars)](https://github.com/Atharva-Shinde/github-readme-stats)
+
 ## About Me
 I am a sophomore pursing Bachelors in Computer Engineering at NMIET,Pune 💫
   
