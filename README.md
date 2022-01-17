@@ -28,6 +28,5 @@ I am a sophomore pursing Bachelors in Computer Engineering at NMIET,Pune 💫
 - [My Blog](https://dev.to/atharvaa/chapter-a-guide-to-docker-36mj)
 - [Read our MoC APAC Blog](https://www.kubernetes.dev/blog/2022/01/10/meet-our-contributors-india-ep-01/?s=09)
 - Pronouns: he/him
-- I just love listening to pianos🎹 and violins🎻.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharva-shinde&show_icons=true&locale=en&layout=compact" alt="atharva's stats" /> 
