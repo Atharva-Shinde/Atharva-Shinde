@@ -25,7 +25,7 @@ I am a sophomore pursing Bachelors in Computer Engineering at NMIET,Pune 💫
 - AWS Educate Member.
 - [Google CloudReady Facilitator Program](https://events.withgoogle.com/googlecloudready-facilitator-program/#content)Completed the ultimate track and availed for Google Cloud Career Ready Program. <br/>Also see my [Qwiklabs Public Profile](https://www.qwiklabs.com/public_profiles/6bfb006e-758f-4dd6-ab55-ce66d7be0cdc)
 - [Google Cloud Career Readiness Program](https://cloud.google.com/edu/career-readiness) Selected as one of the first 1000 students to be awarded a seat in the Google Cloud Career Readiness program through CloudReady Program.
-- [My Blog](https://dev.to/atharvaa/chapter-a-guide-to-docker-36mj)
+- [My Blogs](https://dev.to/atharvaa/chapter-a-guide-to-docker-36mj)
 - [Read our MoC APAC Blog](https://www.kubernetes.dev/blog/2022/01/10/meet-our-contributors-india-ep-01/?s=09)
 - Pronouns: he/him
 
