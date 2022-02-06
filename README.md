@@ -1,5 +1,5 @@
 # Hey, I'm `{{ Atharva }}`
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Atharva-Shinde&left_color=gray&right_color=blue)
+<!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Atharva-Shinde&left_color=gray&right_color=blue) -->
 ## Let's Connect!!</h4>
   <a href="https://www.linkedin.com/in/atharva-shinde-6468b4205">
     <img align="left" width="40px" src="https://img.icons8.com/nolan/64/linkedin.png" />
