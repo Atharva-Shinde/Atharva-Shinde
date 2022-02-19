@@ -20,7 +20,7 @@ I am a sophomore pursing Bachelors in Computer Engineering at NMIET,Pune 💫
 ***Development Stack:*** Node JS, React, Redux, Firebase.<br>
 ***I’m currently exploring*** : Machine Learning, scripting & CI/CD pipelines. 
 
-- Pro-Tempore Moderator at kubernetes-dev
+- Moderator at dev@kubernetes.io
 - Member at Kubernetes and Kubernetes-SIG organistions.
 - AWS Educate Member.
 - [Google CloudReady Facilitator Program](https://events.withgoogle.com/googlecloudready-facilitator-program/#content)Completed the ultimate track and availed for Google Cloud Career Ready Program. <br/>Also see my [Qwiklabs Public Profile](https://www.qwiklabs.com/public_profiles/6bfb006e-758f-4dd6-ab55-ce66d7be0cdc)
