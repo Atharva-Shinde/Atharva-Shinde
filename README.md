@@ -21,7 +21,8 @@ I am a sophomore pursing Bachelors in Computer Engineering at NMIET,Pune 💫
 ***I’m currently exploring*** : Machine Learning, scripting & CI/CD pipelines. 
 
 - Moderator at dev@kubernetes.io
-- Member at Kubernetes and Kubernetes-SIG organistions.
+- Member at Kubernetes and Kubernetes-SIG organistion.
+- ContribEx contrib-comms member
 - AWS Educate Member.
 - [Google CloudReady Facilitator Program](https://events.withgoogle.com/googlecloudready-facilitator-program/#content)Completed the ultimate track and availed for Google Cloud Career Ready Program. <br/>Also see my [Qwiklabs Public Profile](https://www.qwiklabs.com/public_profiles/6bfb006e-758f-4dd6-ab55-ce66d7be0cdc)
 - [Google Cloud Career Readiness Program](https://cloud.google.com/edu/career-readiness) Selected as one of the first 1000 students to be awarded a seat in the Google Cloud Career Readiness program through CloudReady Program.
