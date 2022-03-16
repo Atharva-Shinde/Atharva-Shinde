@@ -15,8 +15,8 @@
 ## About Me
 I am a sophomore pursing Bachelors in Computer Engineering at NMIET,Pune 💫
   
-***Programming Languages I'm familiar with:***  Java, JavaScript, Python, Golang, MySQL, Cassandra, CSS, HTML.<br>
-***Development Stack:*** Node JS, React, Redux, Firebase.<br>
+***Programming Languages I'm familiar with:***  Java, JavaScript, Python, Golang, MySQL, Cassandra, yaml<br>
+***Development Stack:***  Docker, Kubernetes, Grafana, Prometheus, GitHub Actions, Node JS, Express, React, Redux, Firebase, GCP<br>
 ***I’m currently exploring*** : Machine Learning, scripting & CI/CD pipelines. 
 
 - Moderator at dev@kubernetes.io
