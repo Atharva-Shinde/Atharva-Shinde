@@ -33,3 +33,4 @@ I am a sophomore pursing Bachelors in Computer Engineering at NMIET,Pune 💫
 - Pronouns: he/him
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharva-shinde&show_icons=true&locale=en&layout=compact" alt="atharva's stats" /> 
+
