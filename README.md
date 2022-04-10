@@ -21,7 +21,6 @@ I am a sophomore pursing Bachelors in Computer Engineering at NMIET,Pune 💫
 
 - GitHub Campus Expert Program 🚩
 - Moderator at dev@kubernetes.io
-- Moderator at dev@kubernetes.io
 - Member at Kubernetes and Kubernetes-SIG organistion.
 - ContribEx contrib-comms member
 - Twilio-Quest Field Operator
