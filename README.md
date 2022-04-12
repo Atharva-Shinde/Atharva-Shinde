@@ -33,7 +33,5 @@ I am a sophomore pursing Bachelors in Computer Engineering at NMIET,Pune 💫
   - [Blog 1](https://www.kubernetes.dev/blog/2022/01/10/meet-our-contributors-india-ep-01/?s=09)
   - [Blog 2](https://kubernetes.io/blog/2022/03/16/meet-our-contributors-au-nz-ep-02)
 
-- Pronouns: he/him
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharva-shinde&show_icons=true&locale=en&layout=compact" alt="atharva's stats" /> 
 
