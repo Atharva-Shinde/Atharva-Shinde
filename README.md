@@ -22,7 +22,7 @@ I am a sophomore pursing Bachelors in Computer Engineering at NMIET,Pune 💫
 ***Development Stack:***  Docker, Kubernetes, Grafana, Prometheus, GitHub Actions, Node JS, Express, React, Redux, Firebase, GCP<br>
 ***I’m currently exploring*** : Machine Learning, scripting & CI/CD pipelines. 
 
-- GitHub Campus Expert Program 🚩
+- GitHub Campus Expert 🚩
 - Moderator at dev@kubernetes.io
 - Member at Kubernetes and Kubernetes-SIG organistion.
 - ContribEx contrib-comms member and Group Mentoring Coordinator
