@@ -1,5 +1,10 @@
 # Hey, I'm `{{ Atharva }}`
 
+  <a href="https://twitter.com/atharvashinde_">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+  </a>&ensp;
+  <a href="https://www.linkedin.com/in/kunal-kushwaha/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   <a href="https://www.linkedin.com/in/atharva-shinde-6468b4205">
     <img align="left" width="40px" src="https://img.icons8.com/nolan/64/linkedin.png" />
   </a>
