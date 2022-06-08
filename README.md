@@ -21,7 +21,7 @@ I am a sophomore pursing Bachelor's in Computer Engineering from Savitribai Phul
 ***Development Stack:***  Docker, Kubernetes, Grafana, Prometheus, GitHub Actions, Node JS, Express, React, Redux, Firebase, GCP<br>
 ***I’m currently exploring*** : Machine Learning, scripting & CI/CD pipelines. 
 
-- Kubernetes 1.25 Release Team as an Enhancement Shadow
+- Kubernetes [1.25 Release Team](https://github.com/kubernetes/releases/release-1.25/release-team.md) as an Enhancement Shadow
 - GitHub Campus Expert 🚩
 - Moderator at dev@kubernetes.io
 - Member at Kubernetes and Kubernetes-SIG organistion.
