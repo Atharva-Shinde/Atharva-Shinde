@@ -19,7 +19,6 @@ I am a sophomore pursing Bachelor's in Computer Engineering from Savitribai Phul
   
 ***Programming Languages I'm familiar with:***  Java, JavaScript, Python, Golang, MySQL, Cassandra, yaml<br>
 ***Development Stack:***  Docker, Kubernetes, Grafana, Prometheus, GitHub Actions, Node JS, Express, React, Redux, Firebase, GCP<br>
-***I’m currently exploring*** : Machine Learning, scripting & CI/CD pipelines. 
 
 - Kubernetes [1.25 Release Team](https://github.com/kubernetes/sig-release/blob/master/releases/release-1.25/release-team.md) as an Enhancements Shadow
 - GitHub Campus Expert 🚩
