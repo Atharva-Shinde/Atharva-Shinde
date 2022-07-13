@@ -1,5 +1,3 @@
-# Hey, I'm `{{ Atharva }}`
-
   <a href="https://twitter.com/atharvashinde_">
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>&ensp;
