@@ -13,7 +13,7 @@
 <br />
 
 ## About Me
-I am a sophomore pursing Bachelor's in Computer Engineering from Savitribai Phule Pune University 💫
+I am a junior pursing Bachelor's in Computer Engineering from Savitribai Phule Pune University 💫
   
 ***Programming Languages I'm familiar with:***  Java, JavaScript, Python, Golang, MySQL, Cassandra, yaml<br>
 ***Development Stack:***  Docker, Kubernetes, Grafana, Prometheus, GitHub Actions, Node JS, Express, React, Redux, Firebase, GCP<br>
