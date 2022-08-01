@@ -30,7 +30,7 @@ I am a junior pursing Bachelor's in Computer Engineering from Savitribai Phule P
 - My Blogs
   - [Chapter: A guide to Docker](https://dev.to/atharvaa/chapter-a-guide-to-docker-36mj)
   - [Chapter: Jenkins](https://dev.to/atharvaa/chapter-jenkins-3hdp)
-  - [Tutorial:Integrating Prometheus with Grafana to create Dashboards]() 
+  - [Tutorial:Integrating Prometheus with Grafana to create Dashboards](https://github.com/Atharva-Shinde/myblogs/blob/main/integrate_prometheus_with_grafana.md) wip
 - Read our Kubernetes Meet Our Contributors APAC Blogs
   - [Blog 1](https://www.kubernetes.dev/blog/2022/01/10/meet-our-contributors-india-ep-01/?s=09)
   - [Blog 2](https://kubernetes.io/blog/2022/03/16/meet-our-contributors-au-nz-ep-02)
