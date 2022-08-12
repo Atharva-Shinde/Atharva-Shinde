@@ -20,13 +20,13 @@ I am a junior pursing Bachelor's in Computer Engineering from Savitribai Phule P
 
 - Kubernetes [1.25 Release Team](https://github.com/kubernetes/sig-release/blob/master/releases/release-1.25/release-team.md) as an Enhancements Shadow
 - GitHub Campus Expert 🚩
-- Moderator at dev@kubernetes.io
 - [Group Mentoring Coordinator](https://github.com/kubernetes/community/issues/6665)
+<!-- - Moderator at dev@kubernetes.io
 - Kubernetes ContribEx contributor-comms team 
-<!-- - Member of Kubernetes and Kubernetes-SIG organistion.
-- AWS Educate Member. -->
+- Member of Kubernetes and Kubernetes-SIG organistion.
+- AWS Educate Member. 
 - [Google Cloud Career Readiness Program](https://cloud.google.com/edu/career-readiness) Selected as one of the first 1000 students to be awarded a seat in the Google Cloud Career Readiness program through CloudReady Program. Also see my [Qwiklabs Public Profile](https://www.qwiklabs.com/public_profiles/6bfb006e-758f-4dd6-ab55-ce66d7be0cdc)
--  [Google CloudReady Facilitator Program](https://events.withgoogle.com/googlecloudready-facilitator-program/#content)Completed the ultimate track and availed for Google Cloud Career Ready Program. <br/>
+-  [Google CloudReady Facilitator Program](https://events.withgoogle.com/googlecloudready-facilitator-program/#content)Completed the ultimate track and availed for Google Cloud Career Ready Program. <br/> -->
 
 - My Blogs
   - [Chapter: A guide to Docker](https://dev.to/atharvaa/chapter-a-guide-to-docker-36mj)
