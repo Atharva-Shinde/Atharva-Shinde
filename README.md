@@ -20,7 +20,7 @@ I am a junior pursing Bachelor's in Computer Engineering from Savitribai Phule P
 
 - Kubernetes [1.25 Release Team](https://github.com/kubernetes/sig-release/blob/master/releases/release-1.25/release-team.md) as an Enhancements Shadow
 - GitHub Campus Expert 🚩
-<!-- - [Group Mentoring Coordinator](https://github.com/kubernetes/community/issues/6665)
+- [Group Mentoring Coordinator](https://github.com/kubernetes/community/issues/6665)
 - Moderator at dev@kubernetes.io
 - Kubernetes ContribEx contributor-comms team 
 - Member of Kubernetes and Kubernetes-SIG organistion.
