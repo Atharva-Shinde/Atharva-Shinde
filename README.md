@@ -18,7 +18,7 @@ I am a junior pursing Bachelor's in Computer Engineering from Savitribai Phule P
 <!-- ***Programming Languages I'm familiar with:***  Java, JavaScript, Python, Golang, MySQL, Cassandra, yaml<br>
 ***Development Stack:***  Docker, Kubernetes, Grafana, Prometheus, GitHub Actions, Node JS, Express, React, Redux, Firebase, GCP<br> -->
 
-- Kubernetes [1.26](https://github.com/kubernetes/sig-release/blob/master/releases/release-1.26/release-team.md) [1.25 Release Team](https://github.com/kubernetes/sig-release/blob/master/releases/release-1.25/release-team.md) as an Enhancements Shadow
+- Kubernetes [1.26](https://github.com/kubernetes/sig-release/blob/master/releases/release-1.26/release-team.md) [1.25](https://github.com/kubernetes/sig-release/blob/master/releases/release-1.25/release-team.md) Enhancements Release Team
 - GitHub Campus Expert 🚩
 - Kubernetes [Group Mentoring Coordinator](https://github.com/kubernetes/community/issues/6665)
 <!-- - Moderator at dev@kubernetes.io
