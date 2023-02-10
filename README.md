@@ -1,8 +1,8 @@
   <a href="https://twitter.com/atharvashinde_">
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>&ensp;
-  <a href="https://www.linkedin.com/in/atharva-shinde-6468b4205">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+<!--   <a href="https://www.linkedin.com/in/atharva-shinde-6468b4205">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> -->
   <a href="mailto:atharvashinde179@gmail.com">
     <img align="left" width="40px" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/100/000000/external-email-multimedia-kiranshastry-lineal-color-kiranshastry-1.png" />
   </a>
@@ -20,7 +20,7 @@ I am a junior pursing Bachelor's in Computer Engineering from Savitribai Phule P
 
 - Kubernetes [1.26](https://github.com/kubernetes/sig-release/blob/master/releases/release-1.26/release-team.md) [1.25](https://github.com/kubernetes/sig-release/blob/master/releases/release-1.25/release-team.md) Enhancements Release Team
 - GitHub Campus Expert 🚩
-- Kubernetes [Group Mentoring Coordinator](https://github.com/kubernetes/community/issues/6665)
+<!-- - Kubernetes [Group Mentoring Coordinator](https://github.com/kubernetes/community/issues/6665) -->
 <!-- - Moderator at dev@kubernetes.io
 - Kubernetes ContribEx contributor-comms team 
 - Member of Kubernetes and Kubernetes-SIG organistion.
