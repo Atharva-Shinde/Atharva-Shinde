@@ -1,5 +1,5 @@
-  <a href="https://twitter.com/atharvashinde_">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+<!--   <a href="https://twitter.com/atharvashinde_">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> -->
   </a>&ensp;
 <!--   <a href="https://www.linkedin.com/in/atharva-shinde-6468b4205">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> -->
