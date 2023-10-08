@@ -18,10 +18,11 @@ I am a junior pursing Bachelor's in Computer Engineering from Savitribai Phule P
 <!-- ***Programming Languages I'm familiar with:***  Java, JavaScript, Python, Golang, MySQL, Cassandra, yaml<br>
 ***Development Stack:***  Docker, Kubernetes, Grafana, Prometheus, GitHub Actions, Node JS, Express, React, Redux, Firebase, GCP<br> -->
 
-- Kubernetes [1.26](https://github.com/kubernetes/sig-release/blob/master/releases/release-1.26/release-team.md) [1.25](https://github.com/kubernetes/sig-release/blob/master/releases/release-1.25/release-team.md) Enhancements Release Team
-<!-- - Kubernetes [Group Mentoring Coordinator](https://github.com/kubernetes/community/issues/6665) -->
+- Part of Kubernetes Release Team [from v1.25 to v1.28](https://github.com/kubernetes/sig-release/blob/master/releases)
+  - Enhancements Release Team lead in v1.28.
 <!-- - Moderator at dev@kubernetes.io
 - Kubernetes ContribEx contributor-comms team 
+- Kubernetes [Group Mentoring Coordinator](https://github.com/kubernetes/community/issues/6665)
 - Member of Kubernetes and Kubernetes-SIG organistion.
 - AWS Educate Member. 
 - [Google Cloud Career Readiness Program](https://cloud.google.com/edu/career-readiness) Selected as one of the first 1000 students to be awarded a seat in the Google Cloud Career Readiness program through CloudReady Program. Also see my [Qwiklabs Public Profile](https://www.qwiklabs.com/public_profiles/6bfb006e-758f-4dd6-ab55-ce66d7be0cdc)
